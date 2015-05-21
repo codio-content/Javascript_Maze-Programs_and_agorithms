@@ -4,6 +4,7 @@
    "id": "85505aa6-7c01-a75e-c081-2b79f8f4bccd",
    "title": "Programs & Algorithms",
    "files": [],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Programs---Algorithms-8550.md"
@@ -20,6 +21,10 @@
    "id": "2f309abb-ab55-717-8505-881975561465",
    "title": "How it's done",
    "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
     {
      "path": "#preview: https://{{domain9500}}/tea-1",
      "panel": 0,
@@ -42,7 +47,13 @@
   {
    "id": "dee422a7-cb14-c420-3d9e-e3d94e313dbd",
    "title": "Constructing your own program",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Constructing-your-own-program-dee4.md"
