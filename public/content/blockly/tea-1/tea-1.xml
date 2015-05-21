@@ -1,0 +1,17 @@
+<!-- Blockly Toolbox Elements -->
+
+<xml id="toolbox" style="display: none">
+  <block type="tea_get_cup"></block>
+  <block type="tea_boil_water"></block>
+  <block type="tea_get_tea_bag"></block>
+</xml>
+
+
+<!-- Prebuilt blocks in the Blockly workspace -->
+
+<xml id="workspace" style="display: none">
+
+</xml>
+
+<!-- Container for Blockly -->
+<div id="blockly"></div> 

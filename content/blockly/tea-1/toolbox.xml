@@ -1,5 +1,0 @@
-<xml id="toolbox" style="display: none">
-  <block type="get_cup"></block>
-  <block type="boil_water"></block>
-  <block type="tea_bag"></block>
-</xml>

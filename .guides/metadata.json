@@ -26,7 +26,7 @@
      "action": "close"
     },
     {
-     "path": "#preview: https://{{domain9500}}/tea-1",
+     "path": "public/content/blockly/tea-1/tea-1.blockly",
      "panel": 0,
      "action": "open"
     }
