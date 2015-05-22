@@ -66,6 +66,20 @@ Blockly.JavaScript['tea_teabag'] = function(block) {
   return code;
 };
 
+Blockly.Blocks['tea_add_sugar'] = {
+  init: function() {
+    this.setColour(50);
+    this.setPreviousStatement(true);
+    this.setNextStatement(true);
+    var input = this.appendDummyInput();
+    input.appendField('Add some sugar');
+  }
+};
+Blockly.JavaScript['tea_add_sugar'] = function(block) {
+  var code = 'tea_add_sugar();\n';
+  return code;
+};
+
 
 Blockly.Blocks['tea_pour_water'] = {
   init: function() {

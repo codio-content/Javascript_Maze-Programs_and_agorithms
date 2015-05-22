@@ -3,8 +3,13 @@
   {
    "id": "85505aa6-7c01-a75e-c081-2b79f8f4bccd",
    "title": "Programs & Algorithms",
-   "files": [],
-   "layout": "2-panels-tree",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Programs---Algorithms-8550.md"
@@ -39,7 +44,18 @@
   {
    "id": "2f3cad8-399f-7420-b59a-441eaada1869",
    "title": "Sequences of steps",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/content/js/tea-1.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Sequences-of-steps-2f3c.md"
@@ -51,6 +67,11 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "public/content/blockly/tea-2/tea-2.blockly",
+     "panel": 0,
+     "action": "open"
     }
    ],
    "layout": "",
@@ -61,7 +82,13 @@
   {
    "id": "9fcaf26c-de5d-3ca7-f6ef-8561199d1428",
    "title": "Algorithms",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Algorithms-9fca.md"
@@ -69,7 +96,18 @@
   {
    "id": "e81adddc-bc62-fb25-3bb9-8496ce27996",
    "title": "Better tea making",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/content/flow/tea-better.flow",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Better-tea-making-e81a.md"
@@ -85,7 +123,18 @@
   {
    "id": "54e264b0-7afa-4f1f-9b27-6a8694432418",
    "title": "More Javascript code",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/content/js/tea-2.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/More-Javascript-code-54e2.md"
@@ -93,7 +142,18 @@
   {
    "id": "3c87f065-fa0c-fb4a-7a96-f596ac2d8ce6",
    "title": "Your first algorithm",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/content/flow/tea-challenge.flow",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Your-first-algorithm-3c87.md"
@@ -101,7 +161,18 @@
   {
    "id": "47ad3db8-e8c8-c6ea-b496-d32d3d0489d1",
    "title": "A tougher algorithm",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/content/flow/parcel-challenge.flow",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/A-tougher-algorithm-47ad.md"
@@ -109,7 +180,18 @@
   {
    "id": "2e2917d8-5b83-2ad9-d86b-4bc31b54caf0",
    "title": "A mathematical algorithm",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/content/flow/math-challenge.flow",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/A-mathematical-algorithm-2e29.md"

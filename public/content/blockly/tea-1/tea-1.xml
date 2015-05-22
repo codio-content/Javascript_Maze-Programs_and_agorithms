@@ -1,16 +1,22 @@
 <!-- Blockly Toolbox Elements -->
 
 <xml id="toolbox" style="display: none">
-  <block type="tea_get_cup"></block>
+<!--
   <block type="tea_boil_water"></block>
+  <block type="tea_get_cup"></block>
   <block type="tea_get_tea_bag"></block>
+  <block type="tea_add_sugar"></block>
+  <block type="tea_pour_water"></block>
+  <block type="tea_milk"></block>
+  <block type="tea_drink"></block>
+-->
 </xml>
 
 
 <!-- Prebuilt blocks in the Blockly workspace -->
 
 <xml id="workspace" style="display: none">
-
+<block type="tea_boil_water" id="8" x="64" y="63"><next><block type="tea_get_cup" id="9"><next><block type="tea_get_tea_bag" id="10"><next><block type="tea_add_sugar" id="11"><next><block type="tea_pour_water" id="12"><next><block type="tea_milk" id="13"><next><block type="tea_drink" id="14"></block></next></block></next></block></next></block></next></block></next></block></next></block>
 </xml>
 
 <!-- Container for Blockly -->
