@@ -207,7 +207,7 @@
  ],
  "theme": "charcoal",
  "scripts": [
-  ".guides/jquery-2.1.4.min.js",
-  ".guides/tests.js"
+  "https://code.jquery.com/jquery-2.1.4.min.js",
+  ".guides/tests/tea-2.js"
  ]
 }
