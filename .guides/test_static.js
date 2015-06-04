@@ -1,6 +1,7 @@
 
 $(document).ready(function() {
   window.addEventListener('codio-button-custom', function (env) {
+    window.testComplete = false;
     window.testEnv = env;
     codio.setButtonValue(env.id, codio.BUTTON_STATE.PROGRESS, 'Checking');
     
