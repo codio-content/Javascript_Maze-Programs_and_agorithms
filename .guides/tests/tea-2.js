@@ -1,8 +1,4 @@
 
-alert('testing');
-
-
-
 var actions = [];
 
 function action(val) {
