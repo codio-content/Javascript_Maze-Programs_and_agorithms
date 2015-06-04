@@ -45,7 +45,8 @@ app.use(function(err, req, res, next) {
   console.log(err);
   
   if (err.status && err.status === 404) {
-    res.send('404');
+    res.status(404);
+    res.end();
   }
 });
 

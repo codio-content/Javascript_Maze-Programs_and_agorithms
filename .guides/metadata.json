@@ -208,6 +208,6 @@
  "theme": "charcoal",
  "scripts": [
   "https://code.jquery.com/jquery-2.1.4.min.js",
-  ".guides/tests/tea-2.js"
+  ".guides/test_static.js"
  ]
 }
