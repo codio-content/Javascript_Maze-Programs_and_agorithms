@@ -1,4 +1,4 @@
-Here's another challenge. This one's a little tougher!
+Here's another challenge. 
 
 |||challenge
 You need to post a parcel and letter to a friend. If the parcel is big, it will cost 2.00 otherwise it will cost 1.00.
