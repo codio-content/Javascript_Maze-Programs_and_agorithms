@@ -6,7 +6,7 @@ This time, we are using a **flow-chart** rather than a list of instructions. You
 A flow-chart is a graphical way of showing the steps of the algorithm.
 |||
 
-Here are the steps that are represented in the flow-chart. Notice how it the steps are much clearer, especially as we have some decisions in there that mean the sequence of steps is no longer a straight line. We'll talk about this on the next page.
+Here are the steps that are represented in the flow-chart. Notice how the steps are much clearer, especially as we have some decisions in there that mean the sequence of steps is no longer a straight line. We'll talk about this on the next page.
 
 1. Switch on the kettle
 1. Get a clean cup

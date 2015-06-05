@@ -9,7 +9,7 @@
      "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Programs---Algorithms-8550.md"
@@ -36,7 +36,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/How-it-s-done-2f30.md"
@@ -180,7 +180,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/A-tougher-algorithm-47ad.md"
+   "content-file": ".guides/content/Another-algorithm-47ad.md"
   },
   {
    "id": "2e2917d8-5b83-2ad9-d86b-4bc31b54caf0",
@@ -204,7 +204,13 @@
   {
    "id": "a092eafb-c606-fb39-bef8-23add6e09e10",
    "title": "Time to start coding",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Time-to-start-coding-a092.md"
