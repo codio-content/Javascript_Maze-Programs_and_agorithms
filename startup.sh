@@ -1,2 +1,2 @@
 
-node app
+forever app.js
