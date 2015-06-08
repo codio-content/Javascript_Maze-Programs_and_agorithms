@@ -8,7 +8,7 @@ Don't worry about the details for now, but if you follow it through, you'll see 
 You'll notice that we have instructions likes
 
 - switchOnKettle()
-- getTeaCup()
+- getCup()
 - etc.
 
 The `()` means that `switchOnKettle` is a function. A function is nothing more than an instruction that itself consists of one or more steps. We have not shown these here and we will explain these in plenty of detail when we start writing some proper code.
