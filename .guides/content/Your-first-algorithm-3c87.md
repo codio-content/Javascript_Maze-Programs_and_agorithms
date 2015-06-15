@@ -7,3 +7,11 @@ You are about to go to bed but before you do, you are going to clean your teeth.
 
 Using the flow-chart editor on the left, come up with an algorithm that explains how you do it.
 |||
+
+|||guidance
+## Solution
+Here is a possible solution ...
+
+![](.guides/img/flow-ch-1.png)
+
+|||
