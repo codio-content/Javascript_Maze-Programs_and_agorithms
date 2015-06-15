@@ -6,13 +6,13 @@ This time, we are using a **flow-chart** rather than a list of instructions. You
 A flow-chart is a graphical way of showing the steps of the algorithm.
 |||
 
-Here are the steps that are represented in the flow-chart. Notice how the steps are much clearer, especially as we have some decisions in there that mean the sequence of steps is no longer a straight line. We'll talk about this on the next page.
+Notice how the steps are much clearer, especially as we have introduced some choices in decision making which mean that the sequence of steps is no longer a straight line. We'll talk about this on the next page.
 
-1. Switch on the kettle
-1. Get a clean cup
-1. Put a tea bag into the cup
-1. Do you take sugar? If so, add it, otherwise skip to the next step
-1. Has the kettle boiled? If not, then wait, otherwise add the water.
+1. Switch on the kettle.
+1. Get a clean cup.
+1. Put a tea bag into the cup.
+1. Do you take sugar? Yes - add it. No - skip to the next step.
+1. Has the kettle boiled? No - wait and do something like Snapchatting a friend. Yes - add the boiling water.
 1. Let the tea brew.
-1. Remove the tea bag an throw away.
-1. Do you take milk? If so, add milk otherwise drink it.
+1. Remove the tea bag and throw away.
+1. Do you take milk? Yes - add milk. No - drink your tea, which is now ready.

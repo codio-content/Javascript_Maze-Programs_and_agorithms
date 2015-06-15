@@ -17,7 +17,7 @@ pourWaterIntoCup()
 
 // Let it brew for 3 minutes. We could change 3 if we wanted to
 brewTime(3)
-chuckTeaBag()
+disposeTeaBag()
 if ( takesMilk == true )
   addMilk()
 

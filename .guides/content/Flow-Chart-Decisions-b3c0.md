@@ -13,7 +13,7 @@ The first decision asks the question "Do you take sugar?". At this point, a deci
 ## Has the kettle boiled?
 This is the next decision. In this case, the kettle might not yet have boiled so you need to wait.
 
-If the kettle has not boiled, then you are told to go and use Snapchat for a bit. After you send your Snapchat message, you take another look to see if the kettle has boiled or not. If not, you send another message and check again. Once it has boiled, you can move to the "Pour in boiling water" instruction.
+If not, then you might want to send another Snapchat message while you wait. After you have sent your Snapchat message, you take another look to see if the kettle has boiled or not. If not, you send another message and check again. Once it has boiled, you can move to the "Add boiling water" instruction.
 
 ## Adding milk
 The final decision follows the exact same principles. In this case, however, it can simply skip the "Add milk" instruction if you don't take milk.

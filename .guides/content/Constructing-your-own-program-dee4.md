@@ -1,8 +1,6 @@
 
 |||challenge
-On the left, you'll see a set of building blocks. Drag these blocks from the left hand toolbox into the area on the right and click them together in the right order.
-
-You can go back to the previous page to check the algorithm.
+On the left, you'll see a set of building blocks. Drag any individual block from the left hand toolbox into the empty white area on the right. 
 
 Once you're done, press the button below to see you've got the instructions in the correct order.
 

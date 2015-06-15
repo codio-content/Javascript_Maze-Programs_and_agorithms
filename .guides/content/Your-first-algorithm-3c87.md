@@ -1,5 +1,7 @@
 Below is your first challenge to check out your ability to come up with an algorithm.
 
+Before you start with this, [click here](https://codio.com/docs/quickstart/flow/) to see how to use the Codio Flow, our flowchart editor. There is a video here which should be helpful.
+
 |||challenge
 You are about to go to bed but before you do, you are going to clean your teeth. 
 

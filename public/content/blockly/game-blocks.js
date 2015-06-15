@@ -72,7 +72,7 @@ Blockly.Blocks['tea_add_sugar'] = {
     this.setPreviousStatement(true);
     this.setNextStatement(true);
     var input = this.appendDummyInput();
-    input.appendField('Add some sugar');
+    input.appendField('Add sugar');
   }
 };
 Blockly.JavaScript['tea_add_sugar'] = function(block) {
@@ -113,7 +113,7 @@ Blockly.Blocks['tea_milk'] = {
     this.setPreviousStatement(true);
     this.setNextStatement(true);
     var input = this.appendDummyInput();
-    input.appendField('If you want milk add some');
+    input.appendField('Add milk');
   }
 };
 Blockly.JavaScript['tea_milk'] = function(block) {

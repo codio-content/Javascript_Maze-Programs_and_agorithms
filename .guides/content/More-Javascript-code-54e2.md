@@ -5,13 +5,15 @@ It's not that scary is it?
 Don't worry about the details for now, but if you follow it through, you'll see that it is all very logical.
 
 ## Functions
-You'll notice that we have instructions likes
+You'll notice that we have instructions like
 
 - switchOnKettle()
 - getCup()
-- etc.
+- addMilk()
 
-The `()` means that `switchOnKettle` is a function. A function is nothing more than an instruction that itself consists of one or more steps. We have not shown these here and we will explain these in plenty of detail when we start writing some proper code.
+The `()` means that `switchOnKettle` and all other instructions with `()` are *functions*. 
+
+A function is nothing more than an instruction that itself consists of one or more steps. We have not shown these here and we will explain these in plenty of detail when we start writing some proper code.
 
 ## `if`
 You'll also learn about `if` before long. There's no mystery to it, though. The line

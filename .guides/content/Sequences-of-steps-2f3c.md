@@ -1,11 +1,9 @@
-What you'll notice is that making a cup of tea is actually a sequence of smaller steps.
+What you'll notice is that making a cup of tea is actually a sequence of small steps.
 
 |||definition
 ## Programs
-Programs are made up of a sequence of small steps or instructions. All computer programs are made up of these small steps.
+Programs are made up of a sequence of steps or instructions. All computer programs are made up of these steps no matter what the program does or whether it runs on your iPhone or in your microwave oven.
 |||
 
-On the left is our tea-making program in real Javascript code. 
-
-All programs are made up of nothing more than these steps. Big programs like Word or Snapchat are no different - there are just a lot of steps!
+On the left is our familiar tea-making program written in Javascript code, which is the most widely used programming language in the world.
 
