@@ -1,13 +1,15 @@
 
 var actions = [];
 
+var thumbsDownMessage = "Nice try, but you can't make a cup of tea in that order. You need to put the building blocks together in the same order in which they appear in the previous page. Check that page to remind you, then try again.";
+
 function action(val) {
   return actions.indexOf(val) > -1;
 }
 
 function wrongOrder() {
   window.testComplete = true;
-  codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.FAILURE, "You can't make tea in that order!");
+  codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.FAILURE, thumbsDownMessage);
 }
 
 function tea_boil_water() {  
@@ -77,7 +79,7 @@ function tea_drink() {
      action('tea_pour_water')) {
 
      window.testComplete = true;
-     codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.SUCCESS, window.message || 'Mmm a warm cup of tea :)');
+     codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.SUCCESS, window.message || 'Well done: you have made a hot cup of tea.');
   } 
 }
  
@@ -85,10 +87,10 @@ $.getScript(window.location.origin + '/public/content/blockly/' + window.testEnv
 .done(function (script, status) {      
   console.log('done: test_static.js');
   if(!window.testComplete) {
-    codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.FAILURE, 'Making and enjoying a cup of tea requires more steps than that!');
+    codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.FAILURE, thumbsDownMessage);
   }
 })
 .fail(function (jqxhr, settings, exception) {
   console.log(exception);
-  codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.INVALID, exception.message); 
+  codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.INVALID, "exception: " + exception.message); 
 });
