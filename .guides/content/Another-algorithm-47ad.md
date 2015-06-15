@@ -5,3 +5,11 @@ You need to post a parcel and letter to a friend. If the parcel is big, it will 
 
 You can think up as many steps of the whole process as you like, it's up to you. 
 |||
+
+|||guidance
+## Solution
+Here is a possible solution ...
+
+![](.guides/img/flow-ch-2.png)
+
+|||
