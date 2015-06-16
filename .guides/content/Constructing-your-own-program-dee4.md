@@ -11,3 +11,11 @@ By doing this, you are taking our tea-making algorithm and constructing the sequ
 
 Before long, we'll be doing this for real using and controlling a simple game.
 
+
+|||guidance
+
+## Solution
+
+Not every cup of tea needs milk or sugar, but here is a complete tea making algorithm using all the available blocks.
+
+![](.guides/img/your-own-program.png)
