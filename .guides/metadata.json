@@ -242,9 +242,8 @@
    "reset": []
   }
  ],
- "theme": "charcoal",
+ "theme": "light",
  "scripts": [
-  "https://code.jquery.com/jquery-2.1.4.min.js",
-  ".guides/test_static.js"
+  "https://code.jquery.com/jquery-2.1.4.min.js"
  ]
 }
