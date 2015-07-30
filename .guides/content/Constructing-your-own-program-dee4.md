@@ -4,7 +4,10 @@ On the left, you'll see a set of building blocks. Drag any individual block from
 
 Once you're done, press the button below to see you've got the instructions in the correct order.
 
-{Check it!! | custom}(tea-2)
+{Check It!|assessment}(test-1005267289)
+
+
+
 |||
 
 By doing this, you are taking our tea-making algorithm and constructing the sequence of steps in the same way that real programs are written.
