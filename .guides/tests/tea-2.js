@@ -85,13 +85,6 @@ function tea_drink() {
 var data = fs.readFileSync('/home/codio/workspace/public/content/blockly/tea-2/blockly-gen.js', 'utf8');
 eval(data);
 
-if(actions.length > 0) {
 //   console.log(actions);
-  process.stdout.write(failMessage);  
-}
-else {
-  // if we are still here the user failed
-  process.stdout.write("Looks like you haven't added any steps yet.");
-}
-
+process.stdout.write(failMessage);  
 process.exit(1);
