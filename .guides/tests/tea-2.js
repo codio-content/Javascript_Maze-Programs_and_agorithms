@@ -82,8 +82,13 @@ function tea_drink() {
 }
 
 // todo export blockly-gen as a node module
-var data = fs.readFileSync('/home/codio/workspace/public/content/blockly/tea-2/blockly-gen.js', 'utf8');
-eval(data);
+try {
+  var data = fs.readFileSync('/home/codio/workspace/public/content/blockly/tea-2/blockly-gen.js', 'utf8');
+  eval(data); 
+}
+catch(e) {
+  
+}
 
 //   console.log(actions);
 process.stdout.write(failMessage);  
