@@ -1,6 +1,6 @@
 Our current tea-making algorithm is rather simple. Let's now take a look at how to make a more sophisticated cup of tea.
 
-This time, we are using a **flow-chart** rather than a list of instructions. You can see the flow chart on the left. You can scroll up and down to see it all.
+This time, we are using a **flow-chart** in Flode, rather than a list of instructions. You can see the chart on the left. You can scroll up and down to see it all.
 
 |||definition
 A flow-chart is a graphical way of showing the steps of the algorithm.

@@ -2,7 +2,7 @@
  "sections": [
   {
    "id": "85505aa6-7c01-a75e-c081-2b79f8f4bccd",
-   "title": "Programs & Algorithms",
+   "title": "Programs & algorithms",
    "files": [
     {
      "path": "#tabs",
@@ -12,9 +12,10 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Programs---Algorithms-8550.md",
+   "content-file": ".guides/content/Programs---algorithms-8550.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "7293a11b-bb1f-da4-e7f3-202a8ddc2561",
@@ -24,7 +25,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Making-a-cup-of-tea-7293.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "2f309abb-ab55-717-8505-881975561465",
@@ -45,7 +47,8 @@
    "type": "markdown",
    "content-file": ".guides/content/How-it-s-done-2f30.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "2f3cad8-399f-7420-b59a-441eaada1869",
@@ -66,7 +69,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Sequences-of-steps-2f3c.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "dee422a7-cb14-c420-3d9e-e3d94e313dbd",
@@ -87,7 +91,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Constructing-your-own-program-dee4.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "9fcaf26c-de5d-3ca7-f6ef-8561199d1428",
@@ -98,7 +103,7 @@
      "action": "close"
     },
     {
-     "path": "public/content/flow/tea-simple.flow",
+     "path": "public/content/flode/tea-simple.flode",
      "panel": 0,
      "action": "open"
     }
@@ -108,7 +113,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Algorithms-9fca.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "e81adddc-bc62-fb25-3bb9-8496ce27996",
@@ -119,7 +125,7 @@
      "action": "close"
     },
     {
-     "path": "public/content/flow/tea-better.flow",
+     "path": "public/content/flode/tea-better.flode",
      "panel": 0,
      "action": "open"
     }
@@ -129,21 +135,23 @@
    "type": "markdown",
    "content-file": ".guides/content/Better-tea-making-e81a.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "b3c0e728-74a3-efa2-63b2-c469368ba7c3",
-   "title": "Flow Chart Decisions",
+   "title": "Flow chart decisions",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Flow-Chart-Decisions-b3c0.md",
+   "content-file": ".guides/content/Flow-chart-decisions-b3c0.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "54e264b0-7afa-4f1f-9b27-6a8694432418",
-   "title": "More Javascript code",
+   "title": "More JavaScript code",
    "files": [
     {
      "path": "#tabs",
@@ -158,9 +166,10 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/More-Javascript-code-54e2.md",
+   "content-file": ".guides/content/More-JavaScript-code-54e2.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "3c87f065-fa0c-fb4a-7a96-f596ac2d8ce6",
@@ -171,7 +180,7 @@
      "action": "close"
     },
     {
-     "path": "public/content/flow/tea-challenge.flow",
+     "path": "public/content/flode/tea-challenge.flode",
      "panel": 0,
      "action": "open"
     }
@@ -181,7 +190,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Your-first-algorithm-3c87.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "47ad3db8-e8c8-c6ea-b496-d32d3d0489d1",
@@ -192,7 +202,7 @@
      "action": "close"
     },
     {
-     "path": "public/content/flow/parcel-challenge.flow",
+     "path": "public/content/flode/parcel-challenge.flode",
      "panel": 0,
      "action": "open"
     }
@@ -202,7 +212,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Another-algorithm-47ad.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "2e2917d8-5b83-2ad9-d86b-4bc31b54caf0",
@@ -213,7 +224,7 @@
      "action": "close"
     },
     {
-     "path": "public/content/flow/math-challenge.flow",
+     "path": "public/content/flode/math-challenge.flode",
      "panel": 0,
      "action": "open"
     }
@@ -223,7 +234,8 @@
    "type": "markdown",
    "content-file": ".guides/content/A-mathematical-algorithm-2e29.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "a092eafb-c606-fb39-bef8-23add6e09e10",
@@ -239,11 +251,13 @@
    "type": "markdown",
    "content-file": ".guides/content/Time-to-start-coding-a092.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
  "scripts": [
   "https://code.jquery.com/jquery-2.1.4.min.js"
- ]
+ ],
+ "lexikonTopic": ""
 }

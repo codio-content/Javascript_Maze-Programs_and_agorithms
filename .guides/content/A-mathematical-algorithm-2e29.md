@@ -9,10 +9,4 @@ Write an algorithm that asks for a value for X and then cubes it. To do this, yo
 Getting the value and displaying it can each be represented as single instructions.
 |||
 
-|||guidance
-## Solution
-Here is a possible solution ...
 
-![](.guides/img/flow-ch-3.png)
-
-|||

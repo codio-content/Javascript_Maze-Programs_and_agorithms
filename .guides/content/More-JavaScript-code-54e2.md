@@ -1,4 +1,4 @@
-On the left you can see some Javascript code for our improved tea-making algorithm.
+On the left you can see some JavaScript code for our improved tea-making algorithm.
 
 It's not that scary is it?
 
