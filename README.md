@@ -1,6 +1,6 @@
 **How does a program work? What is an algorithm?**
 
-- The public GitHub repository for this unit can be found at [https://github.com/codio-content/Javascript_Maze-Programs_and_agorithms](https://github.com/codio-content/Javascript_Maze-Programs_and_agorithms).
+- The public GitHub repository for this unit can be found at [https://github.com/codio-content/Javascript_Maze-Programs_and_algorithms](https://github.com/codio-content/Javascript_Maze-Programs_and_algorithms).
 
 - For more information on other units and modules in the Computational Thinking - Create a maze game course go to [Course-:-Computational-Thinking](https://github.com/codio-content/Information/wiki/Course-:-Computational-Thinking)
 
