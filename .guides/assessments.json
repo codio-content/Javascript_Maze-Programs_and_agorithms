@@ -1,0 +1,18 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1005267289",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Your own tea making program",
+   "instructions": "On the left, you'll see a set of building blocks. Drag any individual block from the left hand toolbox into the empty white area on the right. \n\nOnce you're done, press the button below to see you've got the instructions in the correct order.\n",
+   "command": "node .guides/tests/tea-2.js",
+   "points": 1
+  }
+ }
+]
