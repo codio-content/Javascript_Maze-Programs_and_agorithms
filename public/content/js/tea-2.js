@@ -9,10 +9,10 @@ addTeaBag()
 if ( takesSugar == true )
   addSugar()
 
-// Wait for kettle to boil  
+// Wait for kettle to boil
 while ( kettleBoiled == false )
   useSnapChat()
-  
+
 pourWaterIntoCup()
 
 // Let it brew for 3 minutes. We could change 3 if we wanted to
